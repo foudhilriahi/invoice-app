@@ -1,0 +1,62 @@
+[
+    {
+        "File": "test (2).png",
+        "field": "Invoice Number",
+        "value": "FR-2024/0987",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "Date",
+        "value": "12/05/2024",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "Due Date",
+        "value": "26/05/2024",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "Sender",
+        "value": "{\"Company Name\": \"TECH SOLUTIONS SARL\", \"Address\": \"123 Rue Lafayette, 75010 Paris, France\", \"Phone\": \"+33 0145 68 00\", \"Email\": \"contact@techsolitiosfr\", \"IBAN\": \"FR76 3000 60000112\", \"BIC\": \"AGRIFRPPXX\"}",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "Bill To",
+        "value": "{\"Name\": \"Monsieur Jean Dupont\", \"Address\": \"45 Avenue des Champs-Elysées, 75008 Paris, France\", \"Phone\": \"+33 6 12 3456 78\", \"Email\": \"j.dupont@example.com\"}",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "Items",
+        "value": "[{\"Description\": \"Maintenance Serveur\", \"Quantity\": 2, \"Unit Price\": \"250,00€\", \"Total Price\": \"500,00€\"}, {\"Description\": \"Installation Logicielle\", \"Quantity\": 1, \"Unit Price\": \"300,00€\", \"Total Price\": \"300,00€\"}]",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "Subtotal",
+        "value": "800,00€",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "TVA",
+        "value": "160,00€",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "Total Amount",
+        "value": "960,00€",
+        "confidence": "ai"
+    },
+    {
+        "File": "test (2).png",
+        "field": "language",
+        "value": "fr",
+        "confidence": "ai"
+    }
+]
