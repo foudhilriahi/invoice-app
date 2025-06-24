@@ -12,15 +12,4 @@ openpyxl
 
 
 
-# requirements.txt
-# To install the required packages, run:
-# pip install -r requirements.txt
-# Ensure you have the following prerequisites installed:
-# - Python 3.x
-# - Poppler for Windows (for PDF processing)
-# - Tesseract OCR (for text extraction from images) 
-# pip install pillow pdf2image pytesseract python-dotenv requests langdetect pandas openpyxl
-# download poppler -windows-24.08.0-0 and extract to C:\poppler-24.08.0\bin
-# add C:\poppler-24.08.0\bin to PATH
-# download tesseract-ocr-w64-setup-v5.3.0.20230810.exe and install it
-# add C:\Program Files\Tesseract-OCR to PATH
+
